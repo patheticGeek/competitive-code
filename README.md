@@ -1,5 +1,7 @@
 # Competitive code
 
+> Checkout the `starter-code` branch if you want starter code without my answers.
+
 A repo containg some juicy CP code I'll be writing while starting to get into DSA. Hopefully I'll stay sane and keep my code formatter on so that i don't sin and write unredable code.
 
 I've added launch config and stuff so that you dont have to painfully setup debugging and support in VS Code. BEWARE tho, I use _linux_ so you might wanna tweak files in `.vscode` folder for windows & mac. The testcases are stored in `.cph` folder.

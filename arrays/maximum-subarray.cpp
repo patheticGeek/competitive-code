@@ -32,6 +32,6 @@ int main()
     Solution sol;
     vector<int> nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
     int result = sol.maxSubArray(nums);
-    cout << "result: " << result;
+    cout << "result: " << result << "\n";
     return 0;
 }
